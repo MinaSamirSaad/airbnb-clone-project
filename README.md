@@ -23,10 +23,35 @@
 | **Listing Detailed View** | Shows full information about a selected property.                                               | - Large images or gallery<br>- Full description<br>- Amenities list<br>- “Book Now” button     |
 | **Simple Checkout View**  | Guides the user through confirming their booking and payment.                                   | - Property summary<br>- Pricing breakdown<br>- Input for guest details<br>- Payment options    |
 
-### Importance of a User-Friendly Design
-A **user-friendly design** is critical in a booking system because it directly impacts **conversion rates** and **customer satisfaction**. If the interface is confusing or cluttered, users are more likely to abandon the booking process. By keeping the design clean, intuitive, and consistent, users can:  
-- Quickly find properties that match their needs.  
-- Trust the platform due to clear visuals and transparent pricing.  
-- Complete bookings efficiently without unnecessary steps.  
+---
 
-In short, a well-designed UI/UX not only improves usability but also **builds trust and encourages repeat usage**, which is essential for the success of the booking system.
+### Design Properties from Figma
+
+#### Color Styles
+- **Primary Color** – Used for buttons and main actions.  
+- **Secondary Color** – Used for highlights and supporting UI elements.  
+- **Neutral/Gray Scale** – Used for text, borders, and backgrounds.  
+- **Success/Warning/Error Colors** – Used for status messages and alerts.  
+
+#### Typography
+- **Font Family:** (e.g., Inter / Roboto / Open Sans — depending on Figma file)  
+- **Font Weights:** Regular (400), Medium (500), Bold (700)  
+- **Font Sizes:**  
+  - Heading 1 (e.g., 32px)  
+  - Heading 2 (e.g., 24px)  
+  - Body text (e.g., 16px)  
+  - Small text / captions (e.g., 12–14px)  
+
+*(Exact values should be checked in the shared Figma file and documented here.)*
+
+---
+
+### Importance of Identifying Design Properties
+Identifying the **design properties** (colors, typography, spacing, and components) of a mockup design is crucial because:  
+- It ensures **consistency** across all pages and features.  
+- Developers can translate the design into code **accurately** without guessing styles.  
+- It makes the design **scalable and reusable**, so new pages or components follow the same system.  
+- Teams (designers, developers, and product managers) share a **common language** when discussing UI elements.  
+- A well-documented design system **reduces development time** and minimizes errors.  
+
+By aligning design properties with the mockup, the final implementation will remain **faithful to the original vision** while being easier to maintain and expand.  
