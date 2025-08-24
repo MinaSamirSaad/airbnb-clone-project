@@ -55,3 +55,66 @@ Identifying the **design properties** (colors, typography, spacing, and componen
 - A well-documented design system **reduces development time** and minimizes errors.  
 
 By aligning design properties with the mockup, the final implementation will remain **faithful to the original vision** while being easier to maintain and expand.  
+
+## Project Roles and Responsibilities
+
+To ensure smooth collaboration and delivery, the project team is divided into clear roles with defined responsibilities. Each role contributes uniquely to the overall success of the project.
+
+### Roles and Responsibilities
+
+#### 1. Project Manager
+- Oversees the overall planning, execution, and delivery of the project.  
+- Coordinates communication across all teams and stakeholders.  
+- Manages timelines, budgets, and resource allocation.  
+- Ensures risks are identified and mitigated.  
+
+#### 2. Product Owner
+- Defines the **vision and goals** of the product.  
+- Maintains and prioritizes the **product backlog**.  
+- Acts as the main bridge between stakeholders and the development team.  
+- Ensures that delivered features align with business needs.  
+
+#### 3. Scrum Master
+- Facilitates Agile ceremonies (daily stand-ups, sprint planning, retrospectives).  
+- Removes impediments that block the team’s progress.  
+- Promotes Agile best practices and ensures smooth sprint execution.  
+- Supports collaboration and continuous improvement within the team.  
+
+#### 4. Frontend Developers
+- Implement the **user interface (UI)** and ensure an excellent user experience (UX).  
+- Work closely with designers to translate mockups into responsive web pages.  
+- Ensure cross-browser and cross-device compatibility.  
+- Integrate frontend with backend APIs securely and efficiently.  
+
+#### 5. Backend Developers
+- Design, develop, and maintain server-side logic and APIs.  
+- Manage database structure, queries, and data security.  
+- Ensure scalability, performance, and reliability of the backend systems.  
+- Collaborate with frontend developers to deliver end-to-end features.  
+
+#### 6. Designers (UI/UX)
+- Create wireframes, prototypes, and visual assets for the application.  
+- Define **color palettes, typography, and component libraries**.  
+- Ensure a user-friendly and consistent design system across the product.  
+- Conduct usability testing and gather feedback for continuous improvement.  
+
+#### 7. QA/Testers
+- Develop and execute test cases (manual and automated).  
+- Ensure that new features meet functional and non-functional requirements.  
+- Identify bugs and track them until resolution.  
+- Validate performance, usability, and security of the application.  
+
+#### 8. DevOps Engineers
+- Manage CI/CD pipelines to automate build, testing, and deployment.  
+- Monitor system performance, uptime, and reliability.  
+- Ensure infrastructure is secure, scalable, and cost-efficient.  
+- Collaborate with developers to streamline deployments and reduce downtime.  
+
+---
+
+### Contribution to Project Success
+Each role plays a vital part in ensuring the project meets its **technical, business, and user goals**:  
+- **Managers and owners** provide direction and alignment.  
+- **Designers and developers** bring the vision to life with functionality and usability.  
+- **Testers and DevOps** ensure stability, quality, and scalability.  
+Together, these roles create a balanced workflow that leads to a successful and sustainable product.
