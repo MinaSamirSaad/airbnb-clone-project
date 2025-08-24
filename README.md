@@ -118,3 +118,46 @@ Each role plays a vital part in ensuring the project meets its **technical, busi
 - **Designers and developers** bring the vision to life with functionality and usability.  
 - **Testers and DevOps** ensure stability, quality, and scalability.  
 Together, these roles create a balanced workflow that leads to a successful and sustainable product.
+
+
+## UI Component Patterns
+
+As part of the AirBnB Clone project, the application will include reusable UI components to ensure design consistency and speed up development. These components follow modular design patterns, making them easy to maintain, scale, and extend.
+
+### Planned Components
+
+#### 1. Navbar
+- **Purpose:** Provides global navigation across the application.  
+- **Key Features:**  
+  - Logo and brand identity  
+  - Navigation links (e.g., Home, Listings, About, Contact)  
+  - Search bar for quick property lookup  
+  - User account menu (login, profile, bookings, logout)  
+- **Design Goal:** Keep it lightweight, responsive, and fixed for easy access.
+
+#### 2. Property Card
+- **Purpose:** Displays summarized information about a property in the listing view.  
+- **Key Features:**  
+  - Property image (thumbnail or carousel)  
+  - Title, location, and price per night  
+  - Rating/reviews preview  
+  - Quick action button (e.g., “View Details” or “Book Now”)  
+- **Design Goal:** Visually appealing and optimized for scanning multiple listings quickly.
+
+#### 3. Footer
+- **Purpose:** Provides site-wide links and essential information.  
+- **Key Features:**  
+  - Contact information  
+  - Links to policies (Privacy, Terms of Service)  
+  - Social media icons  
+  - Secondary navigation (About, Help, Careers)  
+- **Design Goal:** Minimalist, consistent, and informative without overwhelming the user.
+
+---
+
+### Importance of Component Patterns
+By defining and reusing UI components:
+- **Consistency** is maintained across the application.  
+- **Development speed** is improved by avoiding repetitive coding.  
+- **Scalability** is supported since components can be easily updated or extended.  
+- **User experience** benefits from predictable, familiar patterns.  
